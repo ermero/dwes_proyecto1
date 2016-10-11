@@ -1,0 +1,22 @@
+.boton1{
+	background-color: blue;
+	text-align:center;
+	padding-right: 12px;
+
+}
+.boton2{
+	background-color: yellow;
+	text-align: left;
+	padding-left: 12px;
+
+}
+h1{
+	text-align:center;
+	color: blue;
+	background:yellow;
+	
+	
+}
+body{
+	background-color:grey;
+}
